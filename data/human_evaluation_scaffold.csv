@@ -1,0 +1,6 @@
+note_id,agenda,generated_sticky_note,category,relevance_rating_1_to_5,usefulness_rating_1_to_5,evaluator_comments
+1,"Frontend Sprint Planning","Deploy client web interface to S3 before end of week.",ACTION,,,
+2,"Database Outage","Migration script crashed because of DB server connection timeout.",PROBLEM,,,
+3,"Weekly Sync","Hold weekly status meeting with product owners on Tuesdays.",DECISION,,,
+4,"Backend Architecture","Resolve API auth token expiry issue in service layer.",PROBLEM,,,
+5,"UI Redesign","Apply new design guidelines, color scheme and fonts to frontend.",IDEA,,,

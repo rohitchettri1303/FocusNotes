@@ -1,0 +1,99 @@
+agenda,sentence,relevance,category
+College Project,What time does the bus leave?,0,IRRELEVANT
+Marketing Campaign,Maybe we should test a different landing page.,1,IDEA
+Marketing Campaign,Email open rates are currently twenty percent.,1,INFORMATION
+Website Performance Optimization,What should we have for lunch today?,0,IRRELEVANT
+Website Development,I bought a new pair of shoes yesterday.,0,IRRELEVANT
+Product Development,The latest release introduced usability problems.,1,PROBLEM
+Team Management,Did you see the new restaurant?,0,IRRELEVANT
+Marketing Campaign,We could test a different advertisement.,1,IDEA
+Product Development,Perhaps we should improve the mobile experience.,1,IDEA
+Software Development,We've agreed to improve the deployment pipeline.,1,DECISION
+Marketing Campaign,We've decided to change the email strategy.,1,DECISION
+Marketing Campaign,I'll analyze the campaign conversion rate.,1,ACTION
+Event Planning,I watched a football match yesterday.,0,IRRELEVANT
+Software Development,The API response time is too slow.,1,PROBLEM
+Event Planning,The venue does not have enough seating.,1,PROBLEM
+Marketing Campaign,The campaign is generating very few leads.,1,PROBLEM
+Marketing Campaign,The current campaign is not generating enough sales.,1,PROBLEM
+Event Planning,The current event budget is two hundred thousand.,1,INFORMATION
+Software Development,The authentication service fails when invalid credentials are entered.,1,PROBLEM
+Software Development,The team decided to split the application into services.,1,DECISION
+Financial Analysis,Cash flow has become unstable.,1,PROBLEM
+Marketing Campaign,The advertisement has been running for two weeks.,1,INFORMATION
+Website Development,The server response time is too high.,1,PROBLEM
+Website Development,We could introduce lazy loading.,1,IDEA
+College Project,The dataset contains five thousand records.,1,INFORMATION
+Team Management,I'll review the project communication process.,1,ACTION
+Product Development,The current return rate is five percent.,1,INFORMATION
+Event Planning,I'll confirm the speaker availability.,1,ACTION
+Team Management,Most team members are working on their assigned tasks.,1,INFORMATION
+Team Management,I'll collect feedback from the team.,1,ACTION
+Team Management,Several employees are unclear about their responsibilities.,1,PROBLEM
+Software Development,Several bugs remain unresolved.,1,PROBLEM
+Website Development,The traffic near the office is unusually heavy today.,0,IRRELEVANT
+Software Development,The application crashes whenever a user submits the login form.,1,PROBLEM
+Event Planning,Let's introduce early bird tickets.,1,DECISION
+College Project,Around ten percent of the records have missing values.,1,INFORMATION
+Software Development,My brother bought a new bicycle.,0,IRRELEVANT
+Website Performance Optimization,The website is currently hosted on our main server.,1,INFORMATION
+College Project,I'll collect additional training samples.,1,ACTION
+Product Development,The weather is beautiful today.,0,IRRELEVANT
+Event Planning,We have not sold enough tickets.,1,PROBLEM
+Event Planning,Four speakers have confirmed attendance.,1,INFORMATION
+Event Planning,The event team has received confirmation from most speakers.,1,INFORMATION
+Marketing Campaign,What are you doing after work?,0,IRRELEVANT
+College Project,We could compare several machine learning models.,1,IDEA
+Financial Analysis,We could reduce operational costs.,1,IDEA
+Software Development,The project currently has twenty developers.,1,INFORMATION
+Financial Analysis,We agreed to revise the sales targets.,1,DECISION
+Website Performance Optimization,The restaurant near campus serves good food.,0,IRRELEVANT
+Event Planning,I'll contact the larger venue.,1,ACTION
+College Project,We decided to use F1 score as our main metric.,1,DECISION
+College Project,We've agreed to document the preprocessing steps.,1,DECISION
+Product Development,I'll analyze the customer feedback.,1,ACTION
+Financial Analysis,Several expenses are above budget.,1,PROBLEM
+College Project,The test dataset contains one thousand samples.,1,INFORMATION
+Website Performance Optimization,I went shopping with my friends yesterday.,0,IRRELEVANT
+Product Development,We could add a customer feedback feature.,1,IDEA
+College Project,We could try balancing the classes.,1,IDEA
+Event Planning,Several speakers have cancelled their attendance.,1,PROBLEM
+Marketing Campaign,Perhaps we should change the email subject lines.,1,IDEA
+Marketing Campaign,Most customers are between twenty and thirty years old.,1,INFORMATION
+Product Development,I'll investigate the return rate.,1,ACTION
+Website Performance Optimization,The weather is very pleasant today.,0,IRRELEVANT
+Marketing Campaign,I'll compare the email open rates.,1,ACTION
+Product Development,The latest version contains three new features.,1,INFORMATION
+Financial Analysis,The team agreed to reduce operational expenses.,1,DECISION
+Website Development,The homepage has performance issues.,1,PROBLEM
+Software Development,The weather is great today.,0,IRRELEVANT
+Financial Analysis,I'll prepare the monthly financial report.,1,ACTION
+Software Development,Let's refactor the authentication module.,1,DECISION
+Product Development,Let's introduce a free trial.,1,DECISION
+Website Performance Optimization,The homepage has several large assets.,1,INFORMATION
+Product Development,Maybe we should introduce a free trial.,1,IDEA
+Event Planning,The weather is hot today.,0,IRRELEVANT
+Team Management,Did you watch the football match?,0,IRRELEVANT
+Website Performance Optimization,The server is hosted on our main infrastructure.,1,INFORMATION
+Website Performance Optimization,The homepage currently contains several large images.,1,INFORMATION
+Financial Analysis,My friend is visiting tomorrow.,0,IRRELEVANT
+College Project,We've decided to use cross validation.,1,DECISION
+Event Planning,The event has six sessions.,1,INFORMATION
+Product Development,I'll review the missing features.,1,ACTION
+Product Development,Perhaps we should add more customization options.,1,IDEA
+Website Performance Optimization,We could reduce the image resolution.,1,IDEA
+Event Planning,The event schedule has a conflict between two sessions.,1,PROBLEM
+Website Development,Maybe we should improve the caching strategy.,1,IDEA
+Event Planning,I'll contact the catering company.,1,ACTION
+Website Development,We could optimize the website images.,1,IDEA
+Website Performance Optimization,The webpage takes too long to respond to requests.,1,PROBLEM
+Event Planning,We agreed to offer group discounts.,1,DECISION
+College Project,The cafeteria is crowded today.,0,IRRELEVANT
+Website Development,I'll test WebP image support.,1,ACTION
+Marketing Campaign,The weather looks cloudy today.,0,IRRELEVANT
+College Project,Several records contain incorrect values.,1,PROBLEM
+Event Planning,The catering company has limited availability.,1,PROBLEM
+Financial Analysis,I'll analyze the cash flow statement.,1,ACTION
+Marketing Campaign,Let's launch the new advertisement.,1,DECISION
+Website Performance Optimization,We will use a CDN for the images.,1,DECISION
+Software Development,The backend service is running on three application servers.,1,INFORMATION

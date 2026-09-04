@@ -1,0 +1,25 @@
+agenda,sentence,relevance,category
+Website Performance Optimization,The homepage takes almost five seconds to load,1,PROBLEM
+Website Performance Optimization,The website loads very slowly,1,PROBLEM
+Website Performance Optimization,The page performance is poor,1,PROBLEM
+Website Performance Optimization,Users are complaining about slow loading,1,PROBLEM
+Website Performance Optimization,Maybe we should compress the images,1,IDEA
+Website Performance Optimization,We could optimize the image sizes,1,IDEA
+Website Performance Optimization,We should try WebP images,1,IDEA
+Website Performance Optimization,Perhaps lazy loading would help,1,IDEA
+Website Performance Optimization,I'll investigate WebP support,1,ACTION
+Website Performance Optimization,I will check the image sizes,1,ACTION
+Website Performance Optimization,I'll test the new optimization settings,1,ACTION
+Website Performance Optimization,Let me analyze the page performance,1,ACTION
+Website Performance Optimization,Let's use WebP for the website images,1,DECISION
+Website Performance Optimization,We decided to compress all large images,1,DECISION
+Website Performance Optimization,The team agreed to optimize the homepage,1,DECISION
+Website Performance Optimization,We will use lazy loading for images,1,DECISION
+Website Performance Optimization,The website currently uses large PNG files,1,INFORMATION
+Website Performance Optimization,The homepage has around fifty images,1,INFORMATION
+Website Performance Optimization,Our current average load time is five seconds,1,INFORMATION
+Website Performance Optimization,The images account for most of the page size,1,INFORMATION
+Website Performance Optimization,Did you watch the football match yesterday,0,IRRELEVANT
+Website Performance Optimization,What did you have for lunch,0,IRRELEVANT
+Website Performance Optimization,The weather is really nice today,0,IRRELEVANT
+Website Performance Optimization,Are you going to the movie tonight,0,IRRELEVANT

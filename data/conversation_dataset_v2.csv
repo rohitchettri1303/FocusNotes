@@ -1,0 +1,502 @@
+agenda,sentence,relevance,category
+Product Development,We agreed to improve the mobile experience.,1,DECISION
+Product Development,We could redesign the main dashboard.,1,IDEA
+Team Management,I'll schedule a progress meeting.,1,ACTION
+Event Planning,The weather is hot today.,0,IRRELEVANT
+College Project,We could try KNN imputation.,1,IDEA
+Team Management,Weekly meetings are held every Monday.,1,INFORMATION
+Website Development,The average page load time is five seconds.,1,INFORMATION
+Financial Analysis,I'll calculate the profit margin.,1,ACTION
+Team Management,Most tasks are tracked using a shared system.,1,INFORMATION
+Software Development,My friend is coming tomorrow.,0,IRRELEVANT
+Product Development,The product is too expensive for some users.,1,PROBLEM
+Financial Analysis,I'll check the sales performance by region.,1,ACTION
+Software Development,Several bugs remain unresolved.,1,PROBLEM
+Product Development,I'll review the missing features.,1,ACTION
+Financial Analysis,We could improve our forecasting model.,1,IDEA
+Marketing Campaign,We've agreed to change the landing page.,1,DECISION
+Marketing Campaign,We could test a different advertisement.,1,IDEA
+Team Management,We decided to use a shared task board.,1,DECISION
+Team Management,We've agreed to introduce monthly feedback sessions.,1,DECISION
+Product Development,The latest release introduced usability problems.,1,PROBLEM
+Website Development,The weather is really nice today.,0,IRRELEVANT
+Website Development,Several pages currently have broken links.,1,INFORMATION
+Website Development,Maybe we should use WebP images.,1,IDEA
+College Project,I watched a great movie yesterday.,0,IRRELEVANT
+Website Development,Perhaps we should compress the static assets.,1,IDEA
+College Project,The model is taking too long to train.,1,PROBLEM
+Marketing Campaign,Our conversion rate is too low.,1,PROBLEM
+Team Management,I'll document everyone's responsibilities.,1,ACTION
+Website Development,The website is loading very slowly.,1,PROBLEM
+Event Planning,We could increase social media promotion.,1,IDEA
+Financial Analysis,We could reduce operational costs.,1,IDEA
+Website Development,We decided to enable lazy loading.,1,DECISION
+Event Planning,Ticket sales increased last week.,1,INFORMATION
+College Project,The team decided to compare three models.,1,DECISION
+Financial Analysis,What should we have for lunch?,0,IRRELEVANT
+Event Planning,The registration deadline is next Friday.,1,INFORMATION
+Marketing Campaign,Most customers are between twenty and thirty years old.,1,INFORMATION
+Website Development,Did you see the new restaurant nearby?,0,IRRELEVANT
+Team Management,We could redistribute the workload.,1,IDEA
+Event Planning,We could move the event to a larger venue.,1,IDEA
+College Project,The target variable contains three classes.,1,INFORMATION
+Financial Analysis,I'll review the marketing expenses.,1,ACTION
+Financial Analysis,I'll investigate the increase in operating costs.,1,ACTION
+Marketing Campaign,We could introduce a referral campaign.,1,IDEA
+Financial Analysis,Are you going to the party?,0,IRRELEVANT
+Website Development,I'll test the caching configuration.,1,ACTION
+Website Development,We've agreed to compress the website assets.,1,DECISION
+College Project,Let's use the cleaned dataset for training.,1,DECISION
+College Project,I need to buy groceries after class.,0,IRRELEVANT
+College Project,Maybe we should collect more data.,1,IDEA
+Website Development,The team decided to fix the mobile layout.,1,DECISION
+College Project,We decided to use F1 score as our main metric.,1,DECISION
+Event Planning,We agreed to offer group discounts.,1,DECISION
+Software Development,The deployment process frequently fails.,1,PROBLEM
+Financial Analysis,The management decided to review supplier contracts.,1,DECISION
+Product Development,Are you going out tonight?,0,IRRELEVANT
+Software Development,I'll fix the authentication issue.,1,ACTION
+College Project,Let's use Random Forest as the baseline model.,1,DECISION
+Website Development,The server response time is too high.,1,PROBLEM
+Marketing Campaign,The campaign reached fifty thousand users.,1,INFORMATION
+Website Development,What time are you leaving for home?,0,IRRELEVANT
+Product Development,Maybe we should introduce a free trial.,1,IDEA
+College Project,We agreed to remove the duplicate records.,1,DECISION
+Product Development,I'll test the new search functionality.,1,ACTION
+Software Development,The project currently has twenty developers.,1,INFORMATION
+Software Development,The API receives around ten thousand requests daily.,1,INFORMATION
+Team Management,I'll analyze the workload distribution.,1,ACTION
+Financial Analysis,We agreed to revise the sales targets.,1,DECISION
+Team Management,I bought a new pair of shoes.,0,IRRELEVANT
+Website Development,The website has too many large images.,1,PROBLEM
+Website Development,I'll test WebP image support.,1,ACTION
+Financial Analysis,What time is the movie?,0,IRRELEVANT
+Financial Analysis,We could reduce unnecessary expenses.,1,IDEA
+Marketing Campaign,I'll review the customer acquisition data.,1,ACTION
+College Project,Perhaps we should engineer additional features.,1,IDEA
+Software Development,What are you eating for lunch?,0,IRRELEVANT
+College Project,The current model accuracy is seventy percent.,1,INFORMATION
+Marketing Campaign,I'll prepare a new landing page.,1,ACTION
+Event Planning,The event is scheduled for next month.,1,INFORMATION
+Software Development,We agreed to optimize the database queries.,1,DECISION
+College Project,Are you joining us for dinner?,0,IRRELEVANT
+Software Development,Did you watch the movie yesterday?,0,IRRELEVANT
+Team Management,Project updates are not being communicated properly.,1,PROBLEM
+Software Development,The team agreed to add automated testing.,1,DECISION
+Software Development,The application has around fifty thousand users.,1,INFORMATION
+Team Management,I'll prepare a prioritized task list.,1,ACTION
+Team Management,Maybe we should use a shared task board.,1,IDEA
+Software Development,The application currently has three services.,1,INFORMATION
+College Project,We've decided to use cross validation.,1,DECISION
+Event Planning,Several speakers have not confirmed attendance.,1,PROBLEM
+Event Planning,I'll prepare a new promotional plan.,1,ACTION
+Website Development,I'll investigate the image sizes.,1,ACTION
+College Project,I'll collect additional training samples.,1,ACTION
+Event Planning,Maybe we should adjust the event schedule.,1,IDEA
+Website Development,The website has several broken links.,1,PROBLEM
+Website Development,I'll analyze the website performance.,1,ACTION
+Financial Analysis,The company generated ten million in revenue.,1,INFORMATION
+Team Management,Team meetings are becoming unproductive.,1,PROBLEM
+Event Planning,Did you call your friend?,0,IRRELEVANT
+Financial Analysis,Cash flow has become unstable.,1,PROBLEM
+Marketing Campaign,We agreed to increase social media activity.,1,DECISION
+Product Development,The team agreed to redesign the dashboard.,1,DECISION
+Team Management,The team currently has twenty open tasks.,1,INFORMATION
+Product Development,What time is the meeting?,0,IRRELEVANT
+College Project,We could try balancing the classes.,1,IDEA
+College Project,We've agreed to document the preprocessing steps.,1,DECISION
+Team Management,Communication between departments is poor.,1,PROBLEM
+Marketing Campaign,The current conversion rate is three percent.,1,INFORMATION
+Event Planning,The venue can accommodate five hundred people.,1,INFORMATION
+Marketing Campaign,The campaign is exceeding its budget.,1,PROBLEM
+Financial Analysis,Maybe we should analyze regional sales.,1,IDEA
+Website Development,I'll check the server response time.,1,ACTION
+Marketing Campaign,Let's introduce the referral campaign.,1,DECISION
+Website Development,Let's use WebP for the website images.,1,DECISION
+Software Development,Perhaps we should use automated testing.,1,IDEA
+Team Management,The team is missing several deadlines.,1,PROBLEM
+Financial Analysis,The weather is very hot today.,0,IRRELEVANT
+Financial Analysis,Sales are highest in the southern region.,1,INFORMATION
+Product Development,Maybe we should introduce personalized recommendations.,1,IDEA
+Marketing Campaign,Maybe we should target a younger audience.,1,IDEA
+Software Development,Did you see the new restaurant?,0,IRRELEVANT
+Product Development,We could simplify the onboarding process.,1,IDEA
+Team Management,The weather is really good today.,0,IRRELEVANT
+Software Development,I'll investigate the login crash.,1,ACTION
+Software Development,The current application uses Python.,1,INFORMATION
+Team Management,Some tasks are not clearly assigned.,1,PROBLEM
+Marketing Campaign,We decided to target a younger audience.,1,DECISION
+Product Development,Did you watch the football match?,0,IRRELEVANT
+Financial Analysis,I'll analyze the cash flow statement.,1,ACTION
+Marketing Campaign,The campaign generated five hundred leads.,1,INFORMATION
+Software Development,The application crashes during login.,1,PROBLEM
+Team Management,We've decided to clarify responsibilities.,1,DECISION
+Marketing Campaign,I'll compare the email open rates.,1,ACTION
+Team Management,The management team decided to prioritize urgent tasks.,1,DECISION
+Website Development,The JavaScript bundle is approximately three megabytes.,1,INFORMATION
+Team Management,The project deadline is next month.,1,INFORMATION
+Software Development,I'll add automated tests.,1,ACTION
+Team Management,I'll review the project communication process.,1,ACTION
+Product Development,The current return rate is five percent.,1,INFORMATION
+College Project,Perhaps we should use feature selection.,1,IDEA
+Financial Analysis,Perhaps we should review supplier costs.,1,IDEA
+Marketing Campaign,Perhaps we should change the email subject lines.,1,IDEA
+Website Development,The mobile version is performing poorly.,1,PROBLEM
+Team Management,Let's introduce weekly progress meetings.,1,DECISION
+Event Planning,What are you doing tonight?,0,IRRELEVANT
+Website Development,We could introduce lazy loading.,1,IDEA
+Marketing Campaign,The campaign budget is one hundred thousand.,1,INFORMATION
+Financial Analysis,The cost of operations is increasing.,1,PROBLEM
+College Project,There are twelve features in the dataset.,1,INFORMATION
+Software Development,The database queries are inefficient.,1,PROBLEM
+Product Development,The product has fifty thousand active users.,1,INFORMATION
+Software Development,The application consumes too much memory.,1,PROBLEM
+Event Planning,I'm planning a holiday next month.,0,IRRELEVANT
+Marketing Campaign,Maybe we should test a different landing page.,1,IDEA
+Event Planning,We could introduce early bird tickets.,1,IDEA
+College Project,Did you watch the match last night?,0,IRRELEVANT
+Product Development,I need to buy a new laptop.,0,IRRELEVANT
+Marketing Campaign,Customer engagement has declined.,1,PROBLEM
+Product Development,The latest release was launched last month.,1,INFORMATION
+College Project,What time does the bus leave?,0,IRRELEVANT
+College Project,I'll test different preprocessing techniques.,1,ACTION
+Financial Analysis,We've decided to focus on the profitable products.,1,DECISION
+Financial Analysis,Operating costs have increased significantly.,1,PROBLEM
+Financial Analysis,I need to get some groceries.,0,IRRELEVANT
+Event Planning,We have not sold enough tickets.,1,PROBLEM
+Financial Analysis,Revenue has declined this quarter.,1,PROBLEM
+Product Development,What did you eat for breakfast?,0,IRRELEVANT
+College Project,I'll calculate the F1 score for each model.,1,ACTION
+Website Development,I'll compare the page load times.,1,ACTION
+Website Development,The server response time is currently two seconds.,1,INFORMATION
+Marketing Campaign,The campaign is generating very few leads.,1,PROBLEM
+Financial Analysis,The team agreed to reduce operational expenses.,1,DECISION
+College Project,I'll evaluate the class distribution.,1,ACTION
+Team Management,Did you see the new restaurant?,0,IRRELEVANT
+Software Development,We could refactor the authentication module.,1,IDEA
+Product Development,Let's introduce a free trial.,1,DECISION
+Event Planning,I'll contact the larger venue.,1,ACTION
+Team Management,I'm going to the cinema tonight.,0,IRRELEVANT
+Financial Analysis,Let's increase the forecasting frequency.,1,DECISION
+Marketing Campaign,The advertisement is not reaching enough people.,1,PROBLEM
+Software Development,The team decided to split the application into services.,1,DECISION
+College Project,The training dataset contains four thousand samples.,1,INFORMATION
+Event Planning,Four speakers have confirmed attendance.,1,INFORMATION
+Software Development,The API response time is too slow.,1,PROBLEM
+Event Planning,The current event budget is two hundred thousand.,1,INFORMATION
+Software Development,We've decided to improve error handling.,1,DECISION
+Product Development,Customer retention has declined.,1,PROBLEM
+Event Planning,The event budget is too high.,1,PROBLEM
+Marketing Campaign,The advertisement has been running for two weeks.,1,INFORMATION
+Team Management,The team agreed to redistribute the workload.,1,DECISION
+Product Development,We've agreed to prioritize the missing features.,1,DECISION
+Event Planning,I'll analyze ticket sales.,1,ACTION
+Event Planning,We decided to move to a larger venue.,1,DECISION
+Financial Analysis,The current operating margin is eighteen percent.,1,INFORMATION
+Website Development,The website receives around ten thousand visitors daily.,1,INFORMATION
+Website Development,Perhaps a content delivery network would help.,1,IDEA
+Product Development,I'll investigate the return rate.,1,ACTION
+Marketing Campaign,What are you doing after work?,0,IRRELEVANT
+Software Development,I'll profile the database queries.,1,ACTION
+Financial Analysis,I'll analyze the regional revenue.,1,ACTION
+Marketing Campaign,Social media engagement increased last month.,1,INFORMATION
+Team Management,Let's create a dedicated communication channel.,1,DECISION
+Product Development,Several important features are missing.,1,PROBLEM
+Financial Analysis,I'll prepare the monthly financial report.,1,ACTION
+Team Management,I'll create a shared task board.,1,ACTION
+Team Management,There are four departments involved in the project.,1,INFORMATION
+Product Development,Most users access the product through mobile devices.,1,INFORMATION
+Team Management,Perhaps we should define responsibilities more clearly.,1,IDEA
+Marketing Campaign,I'll analyze the social media engagement.,1,ACTION
+Software Development,What time is dinner?,0,IRRELEVANT
+Financial Analysis,Did you watch the football match?,0,IRRELEVANT
+Marketing Campaign,We could experiment with video content.,1,IDEA
+Software Development,The codebase has many duplicate functions.,1,PROBLEM
+Software Development,The current authentication system is unreliable.,1,PROBLEM
+Team Management,Did you watch the football match?,0,IRRELEVANT
+Website Development,Users are experiencing slow page loading.,1,PROBLEM
+Software Development,We could improve the deployment pipeline.,1,IDEA
+Financial Analysis,I'll compare this quarter with last quarter.,1,ACTION
+Event Planning,The team agreed to simplify registration.,1,DECISION
+Software Development,We've agreed to improve the deployment pipeline.,1,DECISION
+Website Development,The team agreed to optimize the homepage.,1,DECISION
+Financial Analysis,We decided to reduce the marketing budget.,1,DECISION
+Event Planning,The event schedule has several conflicts.,1,PROBLEM
+Product Development,Perhaps we should improve the mobile experience.,1,IDEA
+Event Planning,We could offer group discounts.,1,IDEA
+Team Management,Three members are working on the backend.,1,INFORMATION
+Financial Analysis,We've agreed to monitor cash flow weekly.,1,DECISION
+College Project,The team agreed to collect more samples.,1,DECISION
+Event Planning,The event currently has three hundred registrations.,1,INFORMATION
+Website Development,We agreed to reduce the JavaScript bundle size.,1,DECISION
+College Project,Around ten percent of the records have missing values.,1,INFORMATION
+Event Planning,Let's change the catering package.,1,DECISION
+Financial Analysis,Perhaps we should focus on the most profitable products.,1,IDEA
+Software Development,I need to buy groceries.,0,IRRELEVANT
+Event Planning,What time should we have lunch?,0,IRRELEVANT
+Financial Analysis,Operating costs increased by eight percent.,1,INFORMATION
+Marketing Campaign,Did you watch the match?,0,IRRELEVANT
+Product Development,Customers have requested twenty new features.,1,INFORMATION
+Website Development,I bought a new pair of shoes yesterday.,0,IRRELEVANT
+Team Management,I'll review the current task assignments.,1,ACTION
+College Project,I'll compare the classification models.,1,ACTION
+Product Development,The weather is beautiful today.,0,IRRELEVANT
+College Project,The project has three machine learning models.,1,INFORMATION
+Product Development,Users are struggling with the onboarding process.,1,PROBLEM
+Marketing Campaign,I need to buy a new shirt.,0,IRRELEVANT
+College Project,I'll prepare the dataset for training.,1,ACTION
+Marketing Campaign,Perhaps influencer marketing could help.,1,IDEA
+Website Development,We could reduce the size of the JavaScript files.,1,IDEA
+Website Development,Most visitors access the site from mobile devices.,1,INFORMATION
+Website Development,Let's move the static files to a CDN.,1,DECISION
+Marketing Campaign,The team agreed to test video content.,1,DECISION
+Financial Analysis,My friend is visiting tomorrow.,0,IRRELEVANT
+Event Planning,I'll confirm the speaker availability.,1,ACTION
+Product Development,My friend is visiting tomorrow.,0,IRRELEVANT
+Marketing Campaign,Our social media engagement is falling.,1,PROBLEM
+Software Development,The deployment pipeline runs every evening.,1,INFORMATION
+Software Development,Let's introduce centralized logging.,1,DECISION
+College Project,The weather has been strange today.,0,IRRELEVANT
+College Project,The classes in our dataset are imbalanced.,1,PROBLEM
+Product Development,Customers are unhappy with the current product.,1,PROBLEM
+Product Development,I watched a movie yesterday.,0,IRRELEVANT
+Event Planning,The registration process is confusing.,1,PROBLEM
+Marketing Campaign,Email open rates are currently twenty percent.,1,INFORMATION
+Website Development,What did you have for lunch?,0,IRRELEVANT
+Event Planning,Maybe we should invite another speaker.,1,IDEA
+Software Development,We could split the application into smaller services.,1,IDEA
+Product Development,We could add a customer feedback feature.,1,IDEA
+Event Planning,The organizers decided to adjust the schedule.,1,DECISION
+Website Development,The current page takes too long to load.,1,PROBLEM
+Product Development,I'll analyze the customer feedback.,1,ACTION
+Team Management,We agreed to shorten the weekly meetings.,1,DECISION
+Financial Analysis,Several expenses are above budget.,1,PROBLEM
+Software Development,The database contains two million records.,1,INFORMATION
+Team Management,The workload is unevenly distributed.,1,PROBLEM
+Software Development,I'll analyze the memory usage.,1,ACTION
+Marketing Campaign,We've decided to change the email strategy.,1,DECISION
+Financial Analysis,The company is spending too much on marketing.,1,PROBLEM
+Software Development,I'll investigate the API response time.,1,ACTION
+College Project,Maybe a transformer model would improve the results.,1,IDEA
+Website Development,I need to call my friend later.,0,IRRELEVANT
+Website Development,The homepage contains around fifty images.,1,INFORMATION
+Product Development,We've decided to add personalization.,1,DECISION
+Software Development,We could optimize the database queries.,1,IDEA
+Team Management,Several employees are unclear about their responsibilities.,1,PROBLEM
+Website Development,We've decided to improve the caching strategy.,1,DECISION
+Event Planning,Perhaps we should simplify registration.,1,IDEA
+Software Development,The backend uses a relational database.,1,INFORMATION
+Product Development,I'll analyze customer retention.,1,ACTION
+Event Planning,The venue does not have enough seating.,1,PROBLEM
+Marketing Campaign,I'll review the audience demographics.,1,ACTION
+Event Planning,The event has six sessions.,1,INFORMATION
+Financial Analysis,I bought a new phone yesterday.,0,IRRELEVANT
+College Project,We could experiment with different preprocessing methods.,1,IDEA
+Financial Analysis,The current budget covers the next twelve months.,1,INFORMATION
+Financial Analysis,Revenue increased by twelve percent last year.,1,INFORMATION
+Website Development,We could optimize the website images.,1,IDEA
+College Project,I'll clean the missing values.,1,ACTION
+Website Development,We could optimize the mobile layout.,1,IDEA
+Marketing Campaign,We could increase our social media presence.,1,IDEA
+Website Development,Did you watch the football match yesterday?,0,IRRELEVANT
+Team Management,Perhaps we should introduce regular feedback sessions.,1,IDEA
+Event Planning,I'll update the event schedule.,1,ACTION
+Software Development,We decided to introduce caching.,1,DECISION
+Product Development,The product currently has four subscription plans.,1,INFORMATION
+Event Planning,The restaurant was excellent.,0,IRRELEVANT
+Software Development,The weather is great today.,0,IRRELEVANT
+Software Development,Perhaps we should improve the error handling.,1,IDEA
+Software Development,I'll review the deployment pipeline.,1,ACTION
+Event Planning,The current promotion is not attracting enough people.,1,PROBLEM
+Team Management,Maybe we should create a communication channel.,1,IDEA
+Product Development,Perhaps we should add more customization options.,1,IDEA
+Team Management,The project has five major milestones.,1,INFORMATION
+Team Management,We could prioritize tasks using deadlines.,1,IDEA
+Event Planning,Perhaps we should change the catering package.,1,IDEA
+Product Development,Let's add the customer feedback feature.,1,DECISION
+Software Development,Maybe we should introduce caching.,1,IDEA
+Marketing Campaign,I'll test the new advertisement.,1,ACTION
+Website Development,Are you going to the movie tonight?,0,IRRELEVANT
+Software Development,Let's refactor the authentication module.,1,DECISION
+Marketing Campaign,Did you call your parents?,0,IRRELEVANT
+Event Planning,I'll contact the catering company.,1,ACTION
+Product Development,I'll prepare a dashboard redesign.,1,ACTION
+Financial Analysis,Maybe we should review the marketing budget.,1,IDEA
+College Project,The preprocessing step is producing errors.,1,PROBLEM
+Website Development,The homepage has performance issues.,1,PROBLEM
+College Project,The model is giving poor predictions.,1,PROBLEM
+College Project,The dataset contains five thousand records.,1,INFORMATION
+Software Development,Maybe we should introduce a logging system.,1,IDEA
+Website Development,The website currently uses PNG images.,1,INFORMATION
+Product Development,I'll compare user behavior across devices.,1,ACTION
+College Project,The cafeteria is crowded today.,0,IRRELEVANT
+College Project,Our current accuracy is too low.,1,PROBLEM
+Product Development,We decided to simplify onboarding.,1,DECISION
+Product Development,The product has a high return rate.,1,PROBLEM
+Website Development,Maybe we should improve the caching strategy.,1,IDEA
+Event Planning,We've decided to increase promotion.,1,DECISION
+College Project,What are you doing this weekend?,0,IRRELEVANT
+Product Development,Customer retention is currently seventy percent.,1,INFORMATION
+Marketing Campaign,I'll check the campaign spending.,1,ACTION
+Event Planning,Did you watch the match yesterday?,0,IRRELEVANT
+Team Management,What did you have for lunch?,0,IRRELEVANT
+Financial Analysis,The company has three major revenue streams.,1,INFORMATION
+Event Planning,I'll review the event budget.,1,ACTION
+Team Management,The team currently has fifteen members.,1,INFORMATION
+Event Planning,We've agreed to invite another speaker.,1,DECISION
+Product Development,The current design is confusing.,1,PROBLEM
+College Project,Several records contain incorrect values.,1,PROBLEM
+College Project,We don't have enough training data.,1,PROBLEM
+Marketing Campaign,The marketing team decided to test influencers.,1,DECISION
+Marketing Campaign,The weather looks cloudy today.,0,IRRELEVANT
+Team Management,What time are you leaving?,0,IRRELEVANT
+Marketing Campaign,The restaurant nearby is really good.,0,IRRELEVANT
+Marketing Campaign,Let's launch the new advertisement.,1,DECISION
+College Project,We could compare several machine learning models.,1,IDEA
+College Project,Our dataset contains too many missing values.,1,PROBLEM
+Team Management,We could introduce weekly progress meetings.,1,IDEA
+Software Development,Are you going to the gym today?,0,IRRELEVANT
+Product Development,We could improve the search functionality.,1,IDEA
+Website Development,I'll measure the mobile loading time.,1,ACTION
+Event Planning,Let's introduce early bird tickets.,1,DECISION
+Marketing Campaign,I'll analyze the campaign conversion rate.,1,ACTION
+Product Development,The product has been available for three years.,1,INFORMATION
+Marketing Campaign,I'm planning a trip next month.,0,IRRELEVANT
+Event Planning,The catering company has limited availability.,1,PROBLEM
+Team Management,The team is struggling to prioritize tasks.,1,PROBLEM
+Product Development,I'll review the onboarding process.,1,ACTION
+Event Planning,I'll check the registration process.,1,ACTION
+Marketing Campaign,The email open rate is below target.,1,PROBLEM
+Financial Analysis,Marketing expenses account for twenty percent of costs.,1,INFORMATION
+Marketing Campaign,The current campaign is not generating enough sales.,1,PROBLEM
+Team Management,I'll collect feedback from the team.,1,ACTION
+Financial Analysis,Profit margins are lower than expected.,1,PROBLEM
+College Project,The test dataset contains one thousand samples.,1,INFORMATION
+Event Planning,I need to buy some clothes.,0,IRRELEVANT
+Software Development,I'll refactor the duplicate functions.,1,ACTION
+Financial Analysis,Let's review the pricing strategy next month.,1,DECISION
+Team Management,I'm planning a trip next month.,0,IRRELEVANT
+Website Development,I'll check the broken links.,1,ACTION
+Marketing Campaign,What time should we leave?,0,IRRELEVANT
+College Project,I'll analyze the model errors.,1,ACTION
+Financial Analysis,We could improve the pricing strategy.,1,IDEA
+Product Development,The product team decided to improve search.,1,DECISION
+Team Management,We could introduce shorter meetings.,1,IDEA
+Financial Analysis,The sales numbers are below target.,1,PROBLEM
+Website Performance Optimization,The homepage is taking too long to load.,1,PROBLEM
+Website Performance Optimization,Users are experiencing slow page loading.,1,PROBLEM
+Website Performance Optimization,The website has a serious performance issue.,1,PROBLEM
+Website Performance Optimization,The page is loading extremely slowly.,1,PROBLEM
+Website Performance Optimization,The current loading time is unacceptable.,1,PROBLEM
+Website Performance Optimization,The website performance needs improvement.,1,PROBLEM
+
+Website Performance Optimization,The website currently uses PNG images.,1,INFORMATION
+Website Performance Optimization,The current average load time is five seconds.,1,INFORMATION
+Website Performance Optimization,The homepage contains several large images.,1,INFORMATION
+Website Performance Optimization,The website is currently hosted on our main server.,1,INFORMATION
+Website Performance Optimization,Most images on the website are currently PNG files.,1,INFORMATION
+Website Performance Optimization,The homepage has several large assets.,1,INFORMATION
+
+Website Performance Optimization,We could compress the images.,1,IDEA
+Website Performance Optimization,Maybe we should use WebP images.,1,IDEA
+Website Performance Optimization,What if we enabled lazy loading?,1,IDEA
+Website Performance Optimization,Perhaps a CDN would improve performance.,1,IDEA
+Website Performance Optimization,We could reduce the image resolution.,1,IDEA
+Website Performance Optimization,Maybe we should optimize the JavaScript files.,1,IDEA
+
+Website Performance Optimization,I'll check the image sizes.,1,ACTION
+Website Performance Optimization,I'll test WebP conversion.,1,ACTION
+Website Performance Optimization,I'll investigate the server configuration.,1,ACTION
+Website Performance Optimization,I will measure the page load time.,1,ACTION
+Website Performance Optimization,I'll analyze the performance logs.,1,ACTION
+Website Performance Optimization,I'll check which assets are slowing the page down.,1,ACTION
+
+Website Performance Optimization,We decided to use WebP.,1,DECISION
+Website Performance Optimization,The team agreed to compress the images.,1,DECISION
+Website Performance Optimization,We've decided to enable lazy loading.,1,DECISION
+Website Performance Optimization,We will use a CDN for the images.,1,DECISION
+Website Performance Optimization,The team chose WebP as the image format.,1,DECISION
+Website Performance Optimization,We decided to optimize the JavaScript files.,1,DECISION
+
+Website Performance Optimization,Did you watch the football match yesterday?,0,IRRELEVANT
+Website Performance Optimization,What time should we leave for dinner?,0,IRRELEVANT
+Website Performance Optimization,I am planning a trip next month.,0,IRRELEVANT
+Website Performance Optimization,The weather is very pleasant today.,0,IRRELEVANT
+Website Performance Optimization,Did you finish watching that movie?,0,IRRELEVANT
+Website Performance Optimization,What should we have for lunch today?,0,IRRELEVANT
+Software Development,The application fails whenever a user tries to sign in.,1,PROBLEM
+Software Development,Users are unable to complete the login process.,1,PROBLEM
+Software Development,The software stops responding during startup.,1,PROBLEM
+Event Planning,The registration process is failing for several attendees.,1,PROBLEM
+Event Planning,The event schedule has a conflict between two sessions.,1,PROBLEM
+Event Planning,Several participants cannot access the event portal.,1,PROBLEM
+Website Performance Optimization,The webpage takes too long to respond to requests.,1,PROBLEM
+Website Performance Optimization,Visitors are experiencing delays when opening the homepage.,1,PROBLEM
+Product Development,Customers are reporting errors in the new product.,1,PROBLEM
+Financial Analysis,The latest sales figures are below the expected target.,1,PROBLEM
+Software Development,The application supports user authentication through email.,1,INFORMATION
+Software Development,The system currently has three login options.,1,INFORMATION
+Software Development,The development team uses Python for this application.,1,INFORMATION
+Event Planning,The conference includes six different sessions.,1,INFORMATION
+Event Planning,The event begins at nine o'clock in the morning.,1,INFORMATION
+Event Planning,Five speakers are scheduled to attend the conference.,1,INFORMATION
+Website Performance Optimization,The homepage currently contains several large images.,1,INFORMATION
+Website Performance Optimization,The server is hosted on our main infrastructure.,1,INFORMATION
+Product Development,The latest version contains three new features.,1,INFORMATION
+College Project,The project currently has four major modules.,1,INFORMATION
+Event Planning,The restaurant was excellent.,0,IRRELEVANT
+Event Planning,I watched a football match yesterday.,0,IRRELEVANT
+Event Planning,The weather was pleasant this afternoon.,0,IRRELEVANT
+Software Development,I had lunch with my friends yesterday.,0,IRRELEVANT
+Software Development,The new movie was very entertaining.,0,IRRELEVANT
+Software Development,My brother bought a new bicycle.,0,IRRELEVANT
+Website Performance Optimization,The restaurant near campus serves good food.,0,IRRELEVANT
+Website Performance Optimization,I went shopping with my friends yesterday.,0,IRRELEVANT
+Financial Analysis,The football match was exciting last night.,0,IRRELEVANT
+College Project,The weather was beautiful during the weekend.,0,IRRELEVANT
+Software Development,The application currently supports two-factor authentication.,1,INFORMATION
+Software Development,The backend service is running on three application servers.,1,INFORMATION
+Software Development,The development team uses Git for source code management.,1,INFORMATION
+Software Development,The application stores user preferences in the database.,1,INFORMATION
+Software Development,The latest build contains the new authentication module.,1,INFORMATION
+
+Event Planning,The event currently has six confirmed speakers.,1,INFORMATION
+Event Planning,The registration system is open for all participants.,1,INFORMATION
+Event Planning,The conference schedule contains four technical sessions.,1,INFORMATION
+Event Planning,The venue has two rooms available for workshops.,1,INFORMATION
+Event Planning,The event team has received confirmation from most speakers.,1,INFORMATION
+
+Team Management,The team holds a progress meeting every Friday.,1,INFORMATION
+Team Management,The project currently has eight team members.,1,INFORMATION
+Team Management,The task board contains the assignments for this week.,1,INFORMATION
+Team Management,Most team members are working on their assigned tasks.,1,INFORMATION
+Team Management,The weekly report contains the team's current progress.,1,INFORMATION
+
+Software Development,The application crashes whenever a user submits the login form.,1,PROBLEM
+Software Development,The authentication service fails when invalid credentials are entered.,1,PROBLEM
+Software Development,The latest build causes errors in the payment module.,1,PROBLEM
+Software Development,The database connection drops during application startup.,1,PROBLEM
+Software Development,Several API requests are returning server errors.,1,PROBLEM
+
+Event Planning,Two conference sessions are scheduled in the same room.,1,PROBLEM
+Event Planning,Several speakers have cancelled their attendance.,1,PROBLEM
+Event Planning,The registration system stops responding during peak usage.,1,PROBLEM
+Event Planning,The venue cannot accommodate the expected number of participants.,1,PROBLEM
+Event Planning,The event schedule contains overlapping sessions.,1,PROBLEM
+
+Team Management,Two team members are assigned to the same task while another task has no owner.,1,PROBLEM
+Team Management,Several assigned tasks are already past their deadlines.,1,PROBLEM
+Team Management,The team is unable to complete the current sprint on time.,1,PROBLEM
+Team Management,Communication between the development and testing teams is causing delays.,1,PROBLEM
+Team Management,The project is behind schedule because several tasks remain incomplete.,1,PROBLEM
+
+Event Planning,The cafeteria is serving lunch today.,0,IRRELEVANT
+Software Development,I bought a new laptop yesterday.,0,IRRELEVANT
+Team Management,The weather is expected to be sunny this weekend.,0,IRRELEVANT
+College Project,The cafeteria has introduced a new menu.,0,IRRELEVANT
+Financial Analysis,My friend is planning a vacation next month.,0,IRRELEVANT
+Product Development,The football match starts at eight tonight.,0,IRRELEVANT
+Marketing Campaign,The campus library closes at six o'clock.,0,IRRELEVANT
+Website Development,The traffic near the office is unusually heavy today.,0,IRRELEVANT
+Event Planning,My phone battery is almost empty.,0,IRRELEVANT
+Team Management,The restaurant near the office is crowded today.,0,IRRELEVANT
